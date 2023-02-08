@@ -12,6 +12,9 @@ namespace Uzduotis01
 
             //Parašykite programą, kuri išvestų žodį “Labas” ir jūsų vardą toje pačioje eilutėje.
 
+            string vardas = "Laura";
+            Console.WriteLine("Labas " + vardas);
+
             Console.WriteLine("Labas Laura");
 
             //Susikurkite kintamąjį žmogaus amžiui nusakyti, išveskite į ekraną tekstą su šiuo amžiumi: “Įvestas amžius: { amžius}”. Tarp { }
