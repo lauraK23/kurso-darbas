@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 kintamieji", "01 kintami
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kintamieji", "kintamieji\kintamieji.csproj", "{577FC0A5-2D69-4183-8BC9-D8EDB71E4D1F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 isvedimas", "02 isvedimas", "{4745D599-D184-4ACA-ADCE-8D93DBC35001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isvedimas", "Isvedimas\Isvedimas.csproj", "{5AE9CA66-6AE6-4C11-93CB-50B789FFC34B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{577FC0A5-2D69-4183-8BC9-D8EDB71E4D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{577FC0A5-2D69-4183-8BC9-D8EDB71E4D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{577FC0A5-2D69-4183-8BC9-D8EDB71E4D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AE9CA66-6AE6-4C11-93CB-50B789FFC34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE9CA66-6AE6-4C11-93CB-50B789FFC34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE9CA66-6AE6-4C11-93CB-50B789FFC34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE9CA66-6AE6-4C11-93CB-50B789FFC34B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{577FC0A5-2D69-4183-8BC9-D8EDB71E4D1F} = {5DA04E84-0789-4A7F-B6D4-9FA9E7F9842F}
+		{5AE9CA66-6AE6-4C11-93CB-50B789FFC34B} = {4745D599-D184-4ACA-ADCE-8D93DBC35001}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {995AF484-C280-478D-8C81-86B005C199F3}
