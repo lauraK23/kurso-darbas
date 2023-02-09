@@ -25,6 +25,22 @@ namespace kintamieji
 
             svoris = 67;
 
+            int skaicius = 5;
+            Console.WriteLine();
+            Console.WriteLine(skaicius);
+            Console.WriteLine(skaicius++);
+            Console.WriteLine(skaicius++);
+            Console.WriteLine(skaicius--);
+            Console.WriteLine(skaicius--);
+            Console.WriteLine(skaicius);
+            Console.WriteLine(++skaicius);
+            Console.WriteLine(++skaicius);
+            Console.WriteLine(--skaicius);
+            Console.WriteLine(--skaicius);
+
+
+
+
         }
     }
 }

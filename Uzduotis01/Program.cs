@@ -20,8 +20,8 @@ namespace Uzduotis01
             //Susikurkite kintamąjį žmogaus amžiui nusakyti, išveskite į ekraną tekstą su šiuo amžiumi: “Įvestas amžius: { amžius}”. Tarp { }
             //nurodytas kintamasis, kurio reikšmė toje vietoje turi būti įstatyta.
 
-            int amžius = 24;
-            Console.WriteLine($"Įvestas amžius: {amžius}");
+            int amzius = 24;
+            Console.WriteLine($"Įvestas amžius: {amzius}");
 
             //Susikurkite skaičiaus kintamąjį, kurį išveskite penkis kartus toje pačioje eilutėje be tarpų tarp šių skaičių(skaičius -25, išvedimas - 2525252525).
             //Susikurkite skaičiaus kintamąjį, kurį išveskite penkis kartus toje pačioje eilutėje su tarpais tarp šių skaičių(skaičius -25, rezultatas - 25 25 25 25 25).
@@ -41,9 +41,6 @@ namespace Uzduotis01
             Console.WriteLine("|                          |");
             Console.WriteLine("|                          |");
             Console.WriteLine(" --------------------------");
-
-
-            
         }
     }
 }
