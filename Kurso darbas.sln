@@ -11,6 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 isvedimas", "02 isvedima
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isvedimas", "Isvedimas\Isvedimas.csproj", "{5AE9CA66-6AE6-4C11-93CB-50B789FFC34B}"
 EndProject
+<<<<<<< Updated upstream
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Uzduotis01", "Uzduotis01", "{1F06F789-BA60-4559-ABC3-8DE213BD7C17}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis01", "Uzduotis01\Uzduotis01.csproj", "{9AC4478B-A223-450B-9185-A717A305786E}"
@@ -18,6 +19,11 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 ivedimas", "03 ivedimas", "{1D6DBAC6-A184-4DB8-8B78-BA68F1236D1C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03ivedimas", "03ivedimas\03ivedimas.csproj", "{8991BEC6-5182-4BC7-B813-35E7D63EB4DA}"
+=======
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "uzduotis08", "uzduotis08", "{661D3929-5DB9-4C89-A225-8E0076BA1250}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uzduotiss08", "uzduotiss08\uzduotiss08.csproj", "{36521D0A-FB9D-4510-8BC1-95D13829E08E}"
+>>>>>>> Stashed changes
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,7 @@ Global
 		{5AE9CA66-6AE6-4C11-93CB-50B789FFC34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AE9CA66-6AE6-4C11-93CB-50B789FFC34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AE9CA66-6AE6-4C11-93CB-50B789FFC34B}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< Updated upstream
 		{9AC4478B-A223-450B-9185-A717A305786E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9AC4478B-A223-450B-9185-A717A305786E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AC4478B-A223-450B-9185-A717A305786E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -41,6 +48,12 @@ Global
 		{8991BEC6-5182-4BC7-B813-35E7D63EB4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8991BEC6-5182-4BC7-B813-35E7D63EB4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8991BEC6-5182-4BC7-B813-35E7D63EB4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{36521D0A-FB9D-4510-8BC1-95D13829E08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36521D0A-FB9D-4510-8BC1-95D13829E08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36521D0A-FB9D-4510-8BC1-95D13829E08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36521D0A-FB9D-4510-8BC1-95D13829E08E}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> Stashed changes
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,8 +61,12 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{577FC0A5-2D69-4183-8BC9-D8EDB71E4D1F} = {5DA04E84-0789-4A7F-B6D4-9FA9E7F9842F}
 		{5AE9CA66-6AE6-4C11-93CB-50B789FFC34B} = {4745D599-D184-4ACA-ADCE-8D93DBC35001}
+<<<<<<< Updated upstream
 		{9AC4478B-A223-450B-9185-A717A305786E} = {1F06F789-BA60-4559-ABC3-8DE213BD7C17}
 		{8991BEC6-5182-4BC7-B813-35E7D63EB4DA} = {1D6DBAC6-A184-4DB8-8B78-BA68F1236D1C}
+=======
+		{36521D0A-FB9D-4510-8BC1-95D13829E08E} = {661D3929-5DB9-4C89-A225-8E0076BA1250}
+>>>>>>> Stashed changes
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {995AF484-C280-478D-8C81-86B005C199F3}
