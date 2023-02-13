@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 isvedimas", "02 isvedima
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isvedimas", "Isvedimas\Isvedimas.csproj", "{5AE9CA66-6AE6-4C11-93CB-50B789FFC34B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04", "04", "{900547D6-AE4C-421D-BA35-638D83BD28DD}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04", "04", "{A473D732-3B84-43C8-8C8C-690C60C0310D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
